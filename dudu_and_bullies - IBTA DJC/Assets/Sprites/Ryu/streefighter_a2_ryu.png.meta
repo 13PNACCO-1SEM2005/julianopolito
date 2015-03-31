@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: d46cdcef91f108a49b49ed3293e653d6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: streefighter_a2_ryu_0
+    21300002: streefighter_a2_ryu_1
+    21300004: streefighter_a2_ryu_2
+    21300006: streefighter_a2_ryu_3
+    21300008: streefighter_a2_ryu_4
+    21300010: streefighter_a2_ryu_5
+    21300012: streefighter_a2_ryu_6
+    21300014: streefighter_a2_ryu_9
+    21300016: streefighter_a2_ryu_10
+    21300018: streefighter_a2_ryu_11
+    21300020: streefighter_a2_ryu_12
+    21300022: streefighter_a2_ryu_13
+    21300024: streefighter_a2_ryu_14
+    21300026: streefighter_a2_ryu_15
+    21300028: streefighter_a2_ryu_16
+    21300030: streefighter_a2_ryu_17
+    21300032: streefighter_a2_ryu_18
+    21300034: streefighter_a2_ryu_19
+    21300036: streefighter_a2_ryu_20
+    21300038: streefighter_a2_ryu_21
+    21300040: streefighter_a2_ryu_22
+    21300042: streefighter_a2_ryu_23
+    21300044: streefighter_a2_ryu_24
+    21300046: streefighter_a2_ryu_25
+    21300048: streefighter_a2_ryu_26
+    21300050: streefighter_a2_ryu_27
+    21300052: streefighter_a2_ryu_28
+    21300054: streefighter_a2_ryu_29
+    21300056: streefighter_a2_ryu_30
+    21300058: streefighter_a2_ryu_31
+    21300060: streefighter_a2_ryu_32
+    21300062: streefighter_a2_ryu_33
+    21300064: streefighter_a2_ryu_34
+    21300066: streefighter_a2_ryu_35
+    21300068: streefighter_a2_ryu_36
+    21300070: streefighter_a2_ryu_37
+    21300072: streefighter_a2_ryu_38
+    21300074: streefighter_a2_ryu_39
+    21300076: streefighter_a2_ryu_40
+    21300078: streefighter_a2_ryu_41
+    21300080: streefighter_a2_ryu_42
+    21300082: streefighter_a2_ryu_43
+    21300084: streefighter_a2_ryu_45
+    21300086: streefighter_a2_ryu_46
+    21300088: streefighter_a2_ryu_47
+    21300090: streefighter_a2_ryu_48
+    21300092: streefighter_a2_ryu_49
+    21300094: streefighter_a2_ryu_50
+    21300096: streefighter_a2_ryu_52
+    21300098: streefighter_a2_ryu_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: streefighter_a2_ryu_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 549
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 549
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 549
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 550
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 549
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 549
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 549
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 444
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 339
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 341
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 341
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 339
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 339
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 339
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 342
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_25
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 339
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_26
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 340
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 234
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 234
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 234
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 234
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 234
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 234
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 235
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 235
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_35
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 236
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 131
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 130
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 130
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 129
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_42
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 130
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 138
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 30
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 21
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_50
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 24
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 26
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: streefighter_a2_ryu_53
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 25
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

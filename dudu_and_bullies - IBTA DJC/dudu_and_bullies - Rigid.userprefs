@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InstructionScreen.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PersonaController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OffsetScroller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObstacleGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ParticleDustController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ParticleExplosionControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjectBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KeyboardControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InstructionScreen.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
